@@ -70,7 +70,21 @@ public class WordCRUD implements ICRUD{
 		System.out.println("------------------------");
 		return idlist;
 	}
-
+    public ArrayList<Integer> listSearchWord(String keyword) {
+        ArrayList<Integer> idlist = new ArrayList<>();
+        int j=0;
+        System.out.println("------------------------");
+        for(int i=0; i<list.size(); i++) {
+            String word = list.get(i).getWord();
+            if(!word.startsWith(keyword)) continue;
+            System.out.print((j+1) + " ");
+            System.out.println(list.get(i).toString());
+            idlist.add(i);
+            j++;
+        }
+        System.out.println("------------------------");
+        return idlist;
+    }
     public void listAll(int level){
         int j = 0;
         System.out.println("------------------------");
@@ -160,6 +174,6 @@ public class WordCRUD implements ICRUD{
     public void searchWord() {
         System.out.println("=> 원하는 단어는? ");
         String kword = s.next();
-        listAll(kword);
+        listSearchWord(kword);
     }
 }

@@ -2,7 +2,7 @@
 
 ## 1. 영단어 마스터 실행 화면
 
-###1. 모든 단어 보기
+### 1. 모든 단어 보기
 <img src='https://github.com/Y-eseong/Project1/blob/1cd6296873fcfb0541dd4f7907a6335977ba0278/screenshot/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%A1%B0%ED%9A%8C.png'>
 2. 수준별 단어 보기
 <img src='https://github.com/Y-eseong/Project1/blob/349dc17f2c3666faa01a1f14ea439c21867f6e03/screenshot/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89.png'>

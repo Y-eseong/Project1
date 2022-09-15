@@ -23,5 +23,8 @@
 ### 7. 파일 저장
 <img src='https://github.com/Y-eseong/Project1/blob/349dc17f2c3666faa01a1f14ea439c21867f6e03/screenshot/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%A0%80%EC%9E%A5.png'>
 
+### 파일 내용
+<img src='https://github.com/Y-eseong/Project1/blob/fb497c44eddc088ca514b116a421651946ef14b9/screenshot/%EC%98%81%EB%8B%A8%EC%96%B4%20txt.png'>
+
 ### 0. 나가기
 <img src='https://github.com/Y-eseong/Project1/blob/62c706944c350ce73101127ade049cfef90f20de/screenshot/%EC%98%81%EB%8B%A8%EC%96%B4%20%EB%82%98%EA%B0%80%EA%B8%B0.png'>
